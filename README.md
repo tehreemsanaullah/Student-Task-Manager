@@ -1,3 +1,3 @@
 # Student Task Management System
 
-A collaborative web application designed for students to manage tasks efficiently.
+A collaborative web application designed for students to manage tasks .
