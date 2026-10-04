@@ -1,4 +1,4 @@
-/* Global Reset & Base Styles */
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -14,8 +14,6 @@ body {
     align-items: center;
     min-height: 100vh;
 }
-
-/* Container Layout */
 .container {
     background: #ffffff;
     padding: 30px;
@@ -30,8 +28,6 @@ h1 {
     margin-bottom: 20px;
     color: #2c3e50;
 }
-
-/* Form Layout */
 #task-form {
     display: flex;
     flex-direction: column;
@@ -59,8 +55,6 @@ textarea {
     resize: vertical;
     height: 80px;
 }
-
-/* Buttons */
 button {
     background-color: #3498db;
     color: white;
@@ -76,8 +70,6 @@ button {
 button:hover {
     background-color: #2980b9;
 }
-
-/* Search Bar Styling */
 .search-container {
     margin-bottom: 15px;
 }
@@ -97,10 +89,17 @@ button:hover {
     border-color: #3498db;
     background-color: #fff;
 }
-/* Responsive Design for Mobile Layouts */
 @media (max-width: 600px) {
     .container {
         padding: 15px;
         margin: 10px;
     }
+}
+.secondary-btn {
+    background-color: #e74c3c;
+    width: 100%;
+}
+
+.secondary-btn:hover {
+    background-color: #c0392b;
 }
