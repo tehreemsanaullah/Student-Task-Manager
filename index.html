@@ -17,6 +17,14 @@
         <form id="task-form">
             <input type="text" id="task-title" placeholder="Task Title" required>
             <textarea id="task-desc" placeholder="Task Description"></textarea>
+            
+            <!-- Task Priority Selector -->
+            <select id="task-priority">
+                <option value="Low">Low Priority</option>
+                <option value="Medium" selected>Medium Priority</option>
+                <option value="High">High Priority</option>
+            </select>
+
             <button type="submit">Add Task</button>
         </form>
 
