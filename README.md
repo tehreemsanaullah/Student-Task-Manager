@@ -1,6 +1,6 @@
 # Student Task Manager
 
-A clean, responsive, feature-rich web application built as part of a collaborative Git and web development lab assignment. The application allows students to manage, prioritize, search, and clear tasks locally with a modern user interface[cite: 1].
+A clean, responsive, feature-rich web application built as part of a collaborative Git and web development lab assignment. The application allows students to manage, prioritize, search, and clear tasks locally with a modern user interface.
 
 ---
 
@@ -16,13 +16,13 @@ A clean, responsive, feature-rich web application built as part of a collaborati
 - **Dynamic Task Counter:** Real-time badge tracking the exact number of active items in the task list.
 - **Bulk Clear Action:** Clean up the entire list instantly using the "Clear All Tasks" button (which automatically hides when the list is empty).
 - **Real-Time Search Filtering:** Instantly filter through tasks as you type in the search bar.
-- **Responsive Layout:** Clean, mobile-friendly card-based design optimized for any screen size[cite: 1].
+- **Responsive Layout:** Clean, mobile-friendly card-based design optimized for any screen size.
 
 ---
 
 ## 💻 Technologies Used
-- **HTML5:** Semantic document structure, form elements, priority dropdowns, and containers[cite: 1].
-- **CSS3:** Flexbox layout, custom styling, interactive states, responsive media queries, and visual card styling[cite: 1].
+- **HTML5:** Semantic document structure, form elements, priority dropdowns, and containers.
+- **CSS3:** Flexbox layout, custom styling, interactive states, responsive media queries, and visual card styling.
 - **JavaScript (ES6+):** DOM manipulation, event-driven architecture, array filtering, and dynamic element generation.
 - **Git & GitHub:** Version control, branching strategies, collaborative workflows, and release tagging.
 
@@ -70,8 +70,12 @@ Throughout the development of this repository, the following Git commands were u
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/tehreemsanaullah/Student-Task-Manager.git](https://github.com/tehreemsanaullah/Student-Task-Manager.git)
-
-
+2. **Navigate to the project folder:**
+   ```bash
+   cd Student-Task-Manager
+3. **Open the Application:**
+   -Locate the main index.html file inside the directory and double-click it to open it automatically in your default web browser.            Alternatively, you can open the project folder in your preferred code editor (such as VS Code) and launch it using a Live Server    extension.
+   
 ### Contributors
-- BSDSF25M031 (Muhammad Zaeem Shahzad) (zaeemali84 on GITHUB)
-- BSDSF25M027 (Tehreem Sanaullah) (tehreemsanaullah on GITHUB)
+- BSDSF25M031 (Muhammad Zaeem Shahzad) (zaeemali84@gmail.com on GITHUB)
+- BSDSF25M027 (Tehreem Sanaullah) (tehreemsanaullah37@gmail.com on GITHUB)
